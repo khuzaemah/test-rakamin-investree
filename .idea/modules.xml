@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/folder-soal-dua/folder-soal-dua.iml" filepath="$PROJECT_DIR$/folder-soal-dua/folder-soal-dua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folder-soal-empat/folder-soal-empat.iml" filepath="$PROJECT_DIR$/folder-soal-empat/folder-soal-empat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folder-soal-enam/folder-soal-enam.iml" filepath="$PROJECT_DIR$/folder-soal-enam/folder-soal-enam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folder-soal-lima/folder-soal-lima.iml" filepath="$PROJECT_DIR$/folder-soal-lima/folder-soal-lima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folder-soal-satu/folder-soal-satu.iml" filepath="$PROJECT_DIR$/folder-soal-satu/folder-soal-satu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folder-soal-tiga/folder-soal-tiga.iml" filepath="$PROJECT_DIR$/folder-soal-tiga/folder-soal-tiga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/investree-task5.iml" filepath="$PROJECT_DIR$/.idea/investree-task5.iml" />
+    </modules>
+  </component>
+</project>
